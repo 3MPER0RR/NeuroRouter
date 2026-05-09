@@ -85,3 +85,19 @@ Input → RAM Cache → Local Rules → QNN Router → LLM API → Cache Storage
 - Persistent learning via checkpoints
 - Modular runtime design
 - API fallback strategy (Groq/OpenRouter compatible)
+
+## Notes
+
+This project is experimental and focuses on:
+
+- AI orchestration patterns
+- lightweight inference routing
+- edge-friendly execution design
+
+It is not a production-grade ML framework, but a research-oriented runtime architecture prototype.
+
+---
+
+## Status
+
+Active development — modular components are being incrementally extended.
