@@ -1,8 +1,0 @@
-numpy
-httpx
-python-dotenv
-uvloop
-orjson
-scikit-learn
-rich
-psutil
