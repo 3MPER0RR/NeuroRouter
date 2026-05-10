@@ -3,7 +3,7 @@
 clear
 
 echo "======================="
-echo " CORTEXFLOW LAUNCHER "
+echo " RAM ROUTE AI "
 echo "======================="
 echo
 echo "1) Standard Runtime"
