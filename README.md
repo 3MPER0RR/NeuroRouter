@@ -10,7 +10,9 @@ nano .env
 insert in .env 
 
 LLM_API_URL=https://api.groq.com/openai/v1/chat/completions
+
 LLM_API_KEY=insert_apikey
+
 LLM_MODEL=llama-3.3-70b-versatile
 
 python3.11 -m venv venv
