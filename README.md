@@ -1,3 +1,24 @@
+## install 
+git clone https://github.com/3MPER0RR/NeuroRouter/
+
+cd NeuroRouter/project
+
+touch .env
+
+nano .env
+
+insert in .env 
+
+LLM_API_URL=https://api.groq.com/openai/v1/chat/completions
+LLM_API_KEY=insert_apikey
+LLM_MODEL=llama-3.3-70b-versatile
+
+python3.11 -m venv venv
+
+source venv/bin/activate
+
+pip install -r requirements
+
 # Requirements
 
 - Python 3.11+
