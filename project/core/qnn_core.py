@@ -1,7 +1,6 @@
 """
-QNN Core — Fase 1 (v2, gradienti verificati)
 ============================================
-Rete neurale quantum-inspired con:
+Rete neurale quantum-inspired:
   - InMemoryStore: parameter server in-process, zero overhead di rete
   - Pesi complessi: W = amplitude * e^(i*phase)
   - Attivazione: modulus_activation = tanh(|z|) * z/|z|
@@ -24,7 +23,7 @@ from typing import Any
 
 class InMemoryStore:
     """
-    Parameter server in-process ispirato a Redis.
+    Parameter server in-process.
     Tensori NumPy salvati per riferimento — latenza ~1ns, zero serializzazione.
     """
 
