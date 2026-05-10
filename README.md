@@ -1,7 +1,7 @@
 ## install 
-git clone https://github.com/3MPER0RR/NeuroRouter/
+git clone https://github.com/3MPER0RR/RamRouterAi/
 
-cd NeuroRouter/project
+cd RamRouterAi/project
 
 touch .env
 
