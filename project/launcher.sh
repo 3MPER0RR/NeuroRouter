@@ -3,7 +3,7 @@
 clear
 
 echo "======================="
-echo " RAM ROUTE AI "
+echo " RAMROUTE AI "
 echo "======================="
 echo
 echo "1) Standard Runtime"
