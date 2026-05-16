@@ -31,7 +31,9 @@ numpy,httpx,python-dotenv
 
 uvloop,orjson,scikit-learn,rich,psutil
 
-RamRouteAI
+
+
+# RamRouteAI
 A RAM-first routing layer for LLM APIs — reducing latency and API call volume through a complex-valued neural routing engine.
 
 # The Problem
